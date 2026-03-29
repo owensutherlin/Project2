@@ -1,0 +1,19 @@
+Classifier,Condition,Accuracy,Precision,Recall,F1
+SVC,original,1.0,1.0,1.0,1.0
+SVC,gaussian,1.0,1.0,1.0,1.0
+SVC,jpeg,1.0,1.0,1.0,1.0
+SVC,dpi,0.9306,0.9483,0.948,0.9479
+SVC,crop,0.5973,0.7351,0.6983,0.6512
+SVC,bitdepth,1.0,1.0,1.0,1.0
+Random Forest,original,0.9832,0.9876,0.9749,0.981
+Random Forest,gaussian,0.9966,0.9975,0.995,0.9962
+Random Forest,jpeg,0.9966,0.9975,0.995,0.9962
+Random Forest,dpi,0.67,0.7888,0.5979,0.6347
+Random Forest,crop,0.5705,0.7764,0.6234,0.5823
+Random Forest,bitdepth,0.9989,0.9992,0.9992,0.9992
+KNN,original,1.0,1.0,1.0,1.0
+KNN,gaussian,1.0,1.0,1.0,1.0
+KNN,jpeg,1.0,1.0,1.0,1.0
+KNN,dpi,0.962,0.9719,0.9715,0.9714
+KNN,crop,0.9485,0.9624,0.9614,0.9613
+KNN,bitdepth,0.9743,0.939,0.9807,0.9568
